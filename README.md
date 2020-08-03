@@ -32,7 +32,7 @@
 
 ⚡ Collaborator on Inkeform
 <p>
-  <img height="100" src="http://inkeform.com/logo/logo-horizontal-color.png" />
+  <img height="50" src="http://inkeform.com/logo/logo-horizontal-color.png" />
 </p>
 
 
