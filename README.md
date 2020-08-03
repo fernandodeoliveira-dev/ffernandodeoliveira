@@ -10,6 +10,7 @@
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
 </p>
 
+<br>
 
 🌱 I’m currently learning TypeScript, RactJS, ReactNative and NodeJS
 <p>
@@ -18,7 +19,7 @@
   <img height="30" src="https://pluspng.com/img-png/nodejs-logo-png--435.png" />
 </p>
 
-<hr>
+<br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
