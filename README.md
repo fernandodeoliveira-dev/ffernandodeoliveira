@@ -30,9 +30,3 @@
 - ⚡ Fun fact: ...
 -->
 
-⚡ Collaborator on Inkeform
-<p>
-  <img height="50" src="http://inkeform.com/logo/logo-horizontal-color.png" />
-</p>
-
-
