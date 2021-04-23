@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Qintess for Dell/EMC
-
 <p>
   <img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" />
   <img height="35" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
